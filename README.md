@@ -1,2 +1,2 @@
-# Data-Structure-Algorithm-coce
+# Data-Structure-Algorithm-code
 Multiple codes of graph and tree
